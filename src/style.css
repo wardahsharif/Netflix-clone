@@ -12,14 +12,28 @@ h2 {
     font-weight: normal;
 }
 
+p {
+    color: white;
+}
+
 .strangerthings {
     text-align: left;
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+.series {
+    color: white;
+}
+
+.netflix-icon {
+    color: white;
 }
 
 .container {
     max-width: 1000px;
   background-color: lightcoral;
- 
+background-image: url("media/strangerthings.jpg");
       padding-bottom: 120px;
 }
 
@@ -35,11 +49,13 @@ h2 {
 
 .myListButton {
     background-color: transparent;
-    border: transparent
+    border: transparent;
+   backdrop-filter: blur(50px) rgb(167, 165, 165);
 }
 
 .playButton {
     background-color: white;
     color: black;
     border: transparent;
+   
 }
