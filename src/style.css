@@ -1,5 +1,45 @@
- .image {}
 
- .strangerthings {
-     width: 1000px;
+ h1,h2 {
+  text-align: center; 
  }
+
+ h1 {
+    font-weight: 800px;
+
+ }
+
+h2 {
+    font-weight: normal;
+}
+
+.strangerthings {
+    text-align: left;
+}
+
+.container {
+    max-width: 1000px;
+  background-color: lightcoral;
+ 
+      padding-bottom: 120px;
+}
+
+.card-1 {
+    background-color: transparent;
+    border: transparent;
+}
+
+.card-2 {
+    margin-top: 50px;
+    
+}
+
+.myListButton {
+    background-color: transparent;
+    border: transparent
+}
+
+.playButton {
+    background-color: white;
+    color: black;
+    border: transparent;
+}
