@@ -132,4 +132,33 @@ background-color: black;
 font-size: 15px;
 }
 
+li:hover {
+    color: black;
+    background-color:rgb(231, 229, 229, 0.3);
+}
+
+.alist:hover {
+    width: 210px;
+
+}
+
+.manifest:hover {
+width: 210px;
+}
+
+.wednesday:hover {
+width: 210px;
+}
+
+.cobrakai:hover {
+width: 210px;
+}
+
+.peakyblinder:hover {
+width: 210px;
+}
+
+.winx:hover {
+width: 210px;
+}
   
