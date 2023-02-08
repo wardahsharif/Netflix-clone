@@ -1,6 +1,6 @@
 
  body {
-background-color: rgb(223, 216, 216);
+background-image: url("media/netflixbackground2.webp");
  }
  
  h1,h2 {
@@ -118,7 +118,7 @@ ul {
     text-decoration: none;
     position: relative;
    bottom: 40px;
-   right:10px;
+   right:20px;
 
 }
 
@@ -127,8 +127,8 @@ li {
     display: inline;
     cursor: pointer;
     transition: 200ms;
-    margin: 60px;
-background-color: black;
+    margin: 50px;
+
 font-size: 15px;
 }
 
