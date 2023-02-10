@@ -5,6 +5,7 @@ background-image: url("media/netflixbackground2.webp");
  
  h1,h2 {
   text-align: center; 
+  color: white;
  }
 
  h1 {
@@ -45,14 +46,14 @@ font-size: 50px;
 }
 
 .container {
-    max-width: 1300px;
+    max-width: 1500px;
   background-color: lightcoral;
 background-image: url("media/strangerthing3.jpg");
 border-image-width: 100%;
  margin-bottom: 30px;
     background-size: cover;
     background-position: center;
-  padding-bottom: 40px;
+  padding-bottom: 70px;
  
 }
 
@@ -144,11 +145,42 @@ li:hover {
     background-color:rgb(231, 229, 229, 0.3);
 }
 
+.alist {
+    position: relative;
+    width:200px;
+}
+
+.manifest {
+    position: relative;
+    width: 200px;
+}
+
+.wednesday {
+    position: relative;
+    width: 200px;
+}
+
+.cobrakai {
+    position: relative;
+    width: 200px;
+}
+
+.peakyblinder {
+    position: relative;
+    width: 200px;
+}
+
+.winx {
+    position: relative;
+    width: 200px;
+}
+
+
 .alist:hover {
     width: 210px;
- 
 
 }
+
 
 .manifest:hover {
 width: 210px;
@@ -170,3 +202,4 @@ width: 210px;
 width: 210px;
 }
   
+
