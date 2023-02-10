@@ -1,6 +1,7 @@
 
  body {
 background-image: url("media/netflixbackground2.webp");
+
  }
  
  h1,h2 {
@@ -19,7 +20,8 @@ h2 {
 
 h5 {
     color: white;
-    margin-top: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 p {
@@ -50,10 +52,10 @@ font-size: 50px;
   background-color: lightcoral;
 background-image: url("media/strangerthing3.jpg");
 border-image-width: 100%;
- margin-bottom: 30px;
+ margin-bottom: 50px;
     background-size: cover;
     background-position: center;
-  padding-bottom: 70px;
+margin-bottom: 20px;
  
 }
 
@@ -67,16 +69,10 @@ border-image-width: 100%;
     max-width: 400px;
     background-color: transparent;
    padding-top: 40px;
-  
+margin-bottom: 20px;
 }
 
-.card-2 {
-    margin-top: 170px;
-    
-  background-color: white;
-  padding-left: 60px;
-border-radius: 0%;
-}
+
 
 
 .myListButton {
@@ -104,8 +100,9 @@ border-radius: 0%;
 }
 
 .row {
-    padding-top: 10px;
- 
+    padding-top: 35px;
+
+
 }
 
  .netflixLogo {
@@ -122,12 +119,12 @@ ul {
     color: white;
     list-style: none;
     padding:10px;
-    text-align: center;
+    text-align: left;
     text-decoration: none;
-    position: relative;
-   bottom: 40px;
-   right:20px;
+  background-color: rgb(10, 10, 10, 0.3);
+  position: relative;
 
+ 
 }
 
 li {
